@@ -25,6 +25,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCoder.SkiaSharp", "QRCode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCoder.SkiaSharpTests", "QRCoder.SkiaSharpTests\QRCoder.SkiaSharpTests.csproj", "{8F2B4B7D-ACEE-45CE-B691-CA0B06EDAB95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCoder.Shared", "QRCoder.Shared\QRCoder.Shared.csproj", "{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B8DFD69E-B71C-489B-9793-168DA9E80D24}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -193,6 +200,22 @@ Global
 		{8F2B4B7D-ACEE-45CE-B691-CA0B06EDAB95}.Release|x64.Build.0 = Release|Any CPU
 		{8F2B4B7D-ACEE-45CE-B691-CA0B06EDAB95}.Release|x86.ActiveCfg = Release|Any CPU
 		{8F2B4B7D-ACEE-45CE-B691-CA0B06EDAB95}.Release|x86.Build.0 = Release|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Debug|ARM.Build.0 = Debug|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Debug|x64.Build.0 = Debug|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Debug|x86.Build.0 = Debug|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Release|ARM.ActiveCfg = Release|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Release|ARM.Build.0 = Release|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Release|x64.ActiveCfg = Release|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Release|x64.Build.0 = Release|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Release|x86.ActiveCfg = Release|Any CPU
+		{7F96B7F6-0CFC-4D22-9F96-0AA2D0E27FF6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
